@@ -17,8 +17,8 @@ Welcome to the Africa Project! This project is a SwiftUI application that showca
 ## Installation
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/africa-project.git
+   
+   git clone https://github.com/muaviyaijaz123/AFRICA-A-SwiftUI-App.git
 
 2. cd africa-project
-open AfricaProject.xcodeproj
+   open AfricaProject.xcodeproj
